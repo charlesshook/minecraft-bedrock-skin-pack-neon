@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+      "name": "Neon",
+      "uuid": "6b558ec4-767b-4d18-adec-2f61e4c170b0",
+      "version": [ 1, 0, 0 ]
+    },
+    "modules": [
+      {
+        "type": "skin_pack",
+        "uuid": "8981377d-86de-4161-b33f-a17fae286d34",
+        "version": [ 1, 0, 0 ]
+      }
+    ]
+  }
