@@ -1,0 +1,49 @@
+{
+    "geometry": "skinpacks/skins.json",
+    "skins": [
+      {
+        "localization_name": "Neon Green",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neongreen.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Blue",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonblue.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Orange",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonorange.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Purple",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonpurple.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Yellow",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonyellow.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Pink",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonpink.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Neon Red",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "neonred.png",
+        "type": "free"
+      }
+    ],
+    "serialize_name": "Neon",
+    "localization_name": "Neon"
+  }
