@@ -1,4 +1,10 @@
-# minecraft-bedrock-skin-pack-neon
+# Neon Skin Pack for Minecraft Bedrock
+
+<p>
+Look fancy with this Neon Minecraft Skin Pack!
+To use this pack go releases and download the .mcpack file
+and import it into your Minecraft game.
+</p>
 
 #### Neon Blue Minecraft Skin
 ![Neon Blue](./images/neonblue.png)
